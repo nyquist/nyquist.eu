@@ -21,8 +21,8 @@
 title: nyquist.eu
 description: >- # this means to ignore newlines until "baseurl:"
   Digital samples of an analogue life
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nyquist.github.io/nyquist.eu" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "nyquist.eu/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  nyquist
 permalink: none
 # Build settings
